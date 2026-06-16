@@ -1,2 +1,2 @@
 # franlopla.github.io
-Códigos TFG matemáticas sobre interpolación de datos 2D
+Códigos TFG matemáticas sobre métodos de interpolación de datos 2D
